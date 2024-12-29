@@ -1,1 +1,2 @@
 # Text-Classification-Using-Machine-Learning-and-LSTM-Models
+This project implements a robust text classification pipeline using both traditional machine learning models and deep learning with Long Short-Term Memory (LSTM) networks. It processes a dataset of newsgroup articles and classifies them into predefined categories. By combining data preprocessing, feature engineering, and advanced model architectures, this project demonstrates versatility in solving text classification problems.
